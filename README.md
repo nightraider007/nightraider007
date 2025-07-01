@@ -1,8 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on and looking to collaborate on... Azure Cloud based projects.
+- 🔭 I’m currently working on... Azure Cloud based projects.
 - 🌱 I’m currently experimenting with.... Azure OpenAI integration to enhance customer-facing apps and BI dashboards with cognitive capabilities.
 - 👯 I’m looking to collaborate on Azure Cloud and AI based projects.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...  builder at heart so ask anything on Tech, Tennis, Tinkering.
 - 📫 How to reach me: 📄 LinkedIn: [mark-ogunwale](https://www.linkedin.com/in/mark-ogunwale-6b01432)
 
