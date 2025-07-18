@@ -1,11 +1,11 @@
 ## Hi there 👋
 - 🔭 I’m currently working on... Azure Cloud based projects.
-- 🌱 I’m currently experimenting with.... Azure OpenAI integration to enhance customer-facing apps and BI dashboards with cognitive capabilities.
-- 👯 I’m looking to collaborate on Azure Cloud and AI based projects.
-- 💬 Ask me about ...  builder at heart so ask anything on Tech, Tennis, Tinkering.
+- 🌱 Experimenting with.... Azure OpenAI integration to enhance customer-facing apps and BI dashboards with cognitive capabilities, aiming to unlock new data insights and enhance user experience.
+- 👯 I’m open to collaborating on cutting edge Azure Cloud and AI based projects.
+- 💬 Ask me about ...  As a builder at heart, so ask anything on Tech, Tennis, Tinkering.
 - 📫 How to reach me: 📄 LinkedIn: [mark-ogunwale](https://www.linkedin.com/in/mark-ogunwale-6b01432)
 
-- ⚡ Fun fact: ...I'm designing a **portable tennis racket stringing machine**... its going well.
+- ⚡ Fun fact: ...I'm tinkering(designing) a **portable tennis racket stringing machine**... its going well.
 
 <!--
 **nightraider007/nightraider007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
